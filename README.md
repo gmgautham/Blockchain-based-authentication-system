@@ -193,10 +193,3 @@ The following diagram shows all steps to generate the user's login data hash fro
 
 ---
 
-## Video
-
-The video of the Decentralized application that shows how the BBA works
-
-<a href="https://vimeo.com/567987840">
-    <img src='https://github.com/Edoumou/blockchain-based-authentication/blob/main/client/src/img/pdf/video_img.png' alt='BBA video' />
-</a>
